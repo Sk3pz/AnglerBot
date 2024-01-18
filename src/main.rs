@@ -108,6 +108,7 @@ impl EventHandler for Handler {
         register_command(&ctx, commands::balance::register()).await;
         register_command(&ctx, commands::info::register()).await;
         register_command(&ctx, commands::rod_info::register()).await;
+        register_command(&ctx, commands::bestiary::register()).await;
 
         yay!("{} is connected! {}", ready.user.name, config.motd);
         if !config.debug_mode {
@@ -161,6 +162,9 @@ impl EventHandler for Handler {
                 }
                 "info" => {
                     commands::info::run(&ctx, &command, sender, &guild_id).await;
+                }
+                "bestiary" => {
+                    commands::bestiary::run(&ctx, &command, sender, &guild_id).await;
                 }
                 _ => {
                     command_response(&ctx, &command, "Unknown command").await
