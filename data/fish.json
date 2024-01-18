@@ -1,0 +1,338 @@
+{
+  "weight_factor": 0.8,
+  "fish": [
+    {
+      "name": "Old Boot",
+      "depth": 1,
+      "value": 1,
+      "min_weight": 1,
+      "avg_weight": 1,
+      "max_weight": 2,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Tin Can",
+      "depth": 1,
+      "value": 1,
+      "min_weight": 1,
+      "avg_weight": 1,
+      "max_weight": 2,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Seaweed",
+      "depth": 1,
+      "value": 2,
+      "min_weight": 1,
+      "avg_weight": 1,
+      "max_weight": 2,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Plastic Bag",
+      "depth": 1,
+      "value": 1,
+      "min_weight": 1,
+      "avg_weight": 1,
+      "max_weight": 2,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Plastic Bottle",
+      "depth": 1,
+      "value": 1,
+      "min_weight": 1,
+      "avg_weight": 1,
+      "max_weight": 2,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Tire",
+      "depth": 1,
+      "value": 5,
+      "min_weight": 1,
+      "avg_weight": 1,
+      "max_weight": 2,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Trout",
+      "depth": 10,
+      "value": 8,
+      "min_weight": 15,
+      "avg_weight": 20,
+      "max_weight": 25,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Rainbow Trout",
+      "depth": 10,
+      "value": 30,
+      "min_weight": 1,
+      "avg_weight": 2,
+      "max_weight": 5,
+      "min_rarity": "Elusive"
+    },
+    {
+      "name": "Bass",
+      "depth": 25,
+      "value": 6,
+      "min_weight": 5,
+      "avg_weight": 12,
+      "max_weight": 20,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Salmon",
+      "depth": 20,
+      "value": 12,
+      "min_weight": 5,
+      "avg_weight": 10,
+      "max_weight": 30,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Tuna",
+      "depth": 30,
+      "value": 75,
+      "min_weight": 40,
+      "avg_weight": 300,
+      "max_weight": 500,
+      "min_rarity": "Rare"
+    },
+    {
+      "name": "Marlin",
+      "depth": 45,
+      "value": 30,
+      "min_weight": 200,
+      "avg_weight": 210,
+      "max_weight": 400,
+      "min_rarity": "Uncommon"
+    },
+    {
+      "name": "Perch",
+      "depth": 8,
+      "value": 5,
+      "min_weight": 1,
+      "avg_weight": 2,
+      "max_weight": 4,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Catfish",
+      "depth": 25,
+      "value": 30,
+      "min_weight": 1,
+      "avg_weight": 2,
+      "max_weight": 4,
+      "min_rarity": "Uncommon"
+    },
+    {
+      "name": "Swordfish",
+      "depth": 40,
+      "value": 80,
+      "min_weight": 50,
+      "avg_weight": 180,
+      "max_weight": 500,
+      "min_rarity": "Rare"
+    },
+    {
+      "name": "Pike",
+      "depth": 18,
+      "value": 8,
+      "min_weight": 20,
+      "avg_weight": 28,
+      "max_weight": 40,
+      "min_rarity": "Uncommon"
+    },
+    {
+      "name": "Cod",
+      "depth": 20,
+      "value": 8,
+      "min_weight": 6,
+      "avg_weight": 9,
+      "max_weight": 15,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Herring",
+      "depth": 10,
+      "value": 5,
+      "min_weight": 1,
+      "avg_weight": 2,
+      "max_weight": 3,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Mackerel",
+      "depth": 15,
+      "value": 4,
+      "min_weight": 1,
+      "avg_weight": 2,
+      "max_weight": 4,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Sardine",
+      "depth": 5,
+      "value": 2,
+      "min_weight": 1,
+      "avg_weight": 2,
+      "max_weight": 3,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Eel",
+      "depth": 20,
+      "value": 12,
+      "min_weight": 10,
+      "avg_weight": 15,
+      "max_weight": 30,
+      "min_rarity": "Uncommon"
+    },
+    {
+      "name": "Shark",
+      "depth": 60,
+      "value": 50,
+      "min_weight": 200,
+      "avg_weight": 300,
+      "max_weight": 500,
+      "min_rarity": "Rare"
+    },
+    {
+      "name": "Tilapia",
+      "depth": 10,
+      "value": 5,
+      "min_weight": 1,
+      "avg_weight": 2,
+      "max_weight": 3,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Carp",
+      "depth": 10,
+      "value": 5,
+      "min_weight": 1,
+      "avg_weight": 2,
+      "max_weight": 3,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Guppy",
+      "depth": 5,
+      "value": 2,
+      "min_weight": 1,
+      "avg_weight": 2,
+      "max_weight": 3,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Jellyfish",
+      "depth": 5,
+      "value": 12,
+      "min_weight": 1,
+      "avg_weight": 2,
+      "max_weight": 3,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "dogfish",
+      "depth": 15,
+      "value": 15,
+      "min_weight": 4,
+      "avg_weight": 8,
+      "max_weight": 21,
+      "min_rarity": "Rare"
+    },
+    {
+      "name": "Stingray",
+      "depth": 5,
+      "value": 50,
+      "min_weight": 31,
+      "avg_weight": 40,
+      "max_weight": 75,
+      "min_rarity": "Elusive"
+    },
+    {
+      "name": "Barramundi",
+      "depth": 8,
+      "value": 10,
+      "min_weight": 1,
+      "avg_weight": 13,
+      "max_weight": 110,
+      "min_rarity": "Uncommon"
+    },
+    {
+      "name": "Anglerfish",
+      "depth": 100,
+      "value": 75,
+      "min_weight": 60,
+      "avg_weight": 70,
+      "max_weight": 110,
+      "min_rarity": "Uncommon"
+    },
+    {
+      "name": "Lanternfish",
+      "depth": 110,
+      "value": 50,
+      "min_weight": 1,
+      "avg_weight": 1,
+      "max_weight": 2,
+      "min_rarity": "Common"
+    },
+    {
+      "name": "Fangtooth",
+      "depth": 110,
+      "value": 150,
+      "min_weight": 60,
+      "avg_weight": 70,
+      "max_weight": 110,
+      "min_rarity": "Elusive"
+    },
+    {
+      "name": "Viperfish",
+      "depth": 110,
+      "value": 75,
+      "min_weight": 1,
+      "avg_weight": 1,
+      "max_weight": 2,
+      "min_rarity": "Uncommon"
+    },
+    {
+      "name": "Daggertooth",
+      "depth": 110,
+      "value": 75,
+      "min_weight": 1,
+      "avg_weight": 4,
+      "max_weight": 6,
+      "min_rarity": "Uncommon"
+    },
+    {
+      "name": "Barracudina",
+      "depth": 110,
+      "value": 50,
+      "min_weight": 0,
+      "avg_weight": 1,
+      "max_weight": 2,
+      "min_rarity": "Uncommon"
+    },
+    {
+      "name": "Antarctic toothfish",
+      "depth": 110,
+      "value": 150,
+      "min_weight": 50,
+      "avg_weight": 97,
+      "max_weight": 330,
+      "min_rarity": "Rare"
+    },
+    {
+      "name": "Loch ness monster",
+      "depth": 150,
+      "value": 1000,
+      "min_weight": 800,
+      "avg_weight": 1000,
+      "max_weight": 1200,
+      "min_rarity": "Mythical"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "rod_types": [
+    {
+      "name": "Casting Rod",
+      "base_cost": 100,
+      "base_catch_rate": 15.0,
+      "base_casting_depth": 10,
+      "base_weight_limit": 10,
+      "description": "Your basic rod, good for catching small fish.",
+      "shop_rarity": "Common"
+    },
+    {
+      "name": "Upgraded Casting Rod",
+      "base_cost": 250,
+      "base_catch_rate": 12.0,
+      "base_casting_depth": 15,
+      "base_weight_limit": 15,
+      "description": "A general upgrade, good for catching small fish.",
+      "shop_rarity": "Common"
+    },
+    {
+      "name": "Spinning Rod",
+      "base_cost": 500,
+      "base_catch_rate": 10.0,
+      "base_casting_depth": 15,
+      "base_weight_limit": 20,
+      "description": "General purpose rod, a solid upgrade",
+      "shop_rarity": "Uncommon"
+    },
+    {
+      "name": "Upgraded Spinning Rod",
+      "base_cost": 1000,
+      "base_catch_rate": 8,
+      "base_casting_depth": 15,
+      "base_weight_limit": 20,
+      "description": "General purpose rod, a solid upgrade",
+      "shop_rarity": "Uncommon"
+    },
+    {
+      "name": "Overhead Rod",
+      "base_cost": 5000,
+      "base_catch_rate": 5.0,
+      "base_casting_depth": 60,
+      "base_weight_limit": 200,
+      "description": "Great rod, great for catching massive fish from deep waters.",
+      "shop_rarity": "Rare"
+    },
+    {
+      "name": "Fly Rod",
+      "base_cost": 5000,
+      "base_catch_rate": 2.0,
+      "base_casting_depth": 25,
+      "base_weight_limit": 100,
+      "description": "Great rod, great for quick catches in medium depths.",
+      "shop_rarity": "Rare"
+    },
+    {
+      "name": "Weighted Fly Rod",
+      "base_cost": 8000,
+      "base_catch_rate": 3.0,
+      "base_casting_depth": 50,
+      "base_weight_limit": 200,
+      "description": "Great rod, great for quick catches in medium depths.",
+      "shop_rarity": "Rare"
+    },
+    {
+      "name": "Jigstick",
+      "base_cost": 500000,
+      "base_catch_rate": 0.5,
+      "base_casting_depth": 100,
+      "base_weight_limit": 500,
+      "description": "Built by 5 year olds, nothing beats the jigstick (except the giga rod).",
+      "shop_rarity": "ExtremelyRare"
+    },
+    {
+      "name": "Giga Rod",
+      "base_cost": 1000000,
+      "base_catch_rate": 0.0,
+      "base_casting_depth": 100,
+      "base_weight_limit": 800,
+      "description": "The rod of legends",
+      "shop_rarity": "Unobtainable"
+    }
+  ],
+
+  "rod_materials": [
+    {
+      "name": "Fiberglass",
+      "base_cost": 100,
+      "base_catch_rate": 10.0,
+      "base_casting_depth": 0,
+      "base_weight_limit": 10,
+      "description": "Entry level material, May reduce your catch rate.",
+      "shop_rarity": "Common"
+    },
+    {
+      "name": "Composite",
+      "base_cost": 250,
+      "base_catch_rate": 8.0,
+      "base_casting_depth": 5,
+      "base_weight_limit": 50,
+      "description": "A good material, good for catching small fish.",
+      "shop_rarity": "Common"
+    },
+    {
+      "name": "Bamboo",
+      "base_cost": 800,
+      "base_catch_rate": 5.0,
+      "base_casting_depth": 10,
+      "base_weight_limit": 100,
+      "description": "A good material, definitely better than fiberglass.",
+      "shop_rarity": "Uncommon"
+    },
+    {
+      "name": "Graphite",
+      "base_cost": 1500,
+      "base_catch_rate": 1.0,
+      "base_casting_depth": 15,
+      "base_weight_limit": 200,
+      "description": "An excellent material, Great for quickly catching fish",
+      "shop_rarity": "Rare"
+    },
+    {
+      "name": "Titanium",
+      "base_cost": 1300,
+      "base_catch_rate": 2.5,
+      "base_casting_depth": 30,
+      "base_weight_limit": 300,
+      "description": "An excellent material, You won't have any trouble catching massive fish.",
+      "shop_rarity": "Rare"
+    },
+    {
+      "name": "Chinesium",
+      "base_cost": 500000,
+      "base_catch_rate": 0.5,
+      "base_casting_depth": 100,
+      "base_weight_limit": 500,
+      "description": "Built by 5 year olds",
+      "shop_rarity": "ExtremelyRare"
+    },
+    {
+      "name": "Super",
+      "base_cost": 1000000,
+      "base_catch_rate": 0.0,
+      "base_casting_depth": 100,
+      "base_weight_limit": 800,
+      "description": "The material of the Giga Rod",
+      "shop_rarity": "Unobtainable"
+    }
+  ]
+}
